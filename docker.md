@@ -1,5 +1,5 @@
-`docker ps` shows currently running containers
+Show currently running containers: `docker ps`
 
-`docker ps -a`  shows all containers (running and not running)
+Show all containers (running and not running): `docker ps -a`
 
-`docker attach [container_id]` enters running container
+Enters running container `docker attach [container_id]`
